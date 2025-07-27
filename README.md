@@ -31,4 +31,5 @@
 
 👨‍💻 Author  
 Sagar ([@ZeDD0405](https://github.com/ZeDD0405))
-<img width="1920" height="1080" alt="Diabetes Prediction · Streamlit - Google Chrome 26-07-2025 16_45_02" src="https://github.com/user-attachments/assets/2652237d-6781-4425-8e2e-1f30595793d3" />
+
+<img width="1920" height="1080" alt="Diabetes Prediction · Streamlit - Google Chrome 27-07-2025 10_08_11" src="https://github.com/user-attachments/assets/737d708a-5d36-492e-b400-7af15a758507" />
